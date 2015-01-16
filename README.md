@@ -1,5 +1,3 @@
-# CARD
-
 ## What is CARD?
 
 CARD is a new local descriptor which makes it possible to establish visual correspondences between images, and is widely available for many computer vision applications such as image retrieval, object recognition, structure from motion, augmented reality and many more.
